@@ -1,4 +1,4 @@
-# temporal-messenger
+# Temporal Messenger
 A visual novel game made for Ludum Dare 53 in under 48 hours with the theme "Deliever".
 
 ## [Click here to play!](https://mr-papaya.itch.io/eternal-harvest)
